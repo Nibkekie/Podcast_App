@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633103365468",
+    "project_id": "podcasts-9aa64",
+    "storage_bucket": "podcasts-9aa64.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633103365468:android:be9c7898902072a3d77d99",
+        "android_client_info": {
+          "package_name": "com.example.phetcharat_tongluan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeCjCzVTfdJBRpazbsRWYJYCI28-AewBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
